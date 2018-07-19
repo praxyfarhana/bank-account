@@ -1,3 +1,10 @@
 h1 {
   text-align: center;
 }
+
+.jumbotron {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SA4AkCIp8cVKtdLqBsoCBKvoShJkpiQ95rzR0yUksXBdJ-57");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
